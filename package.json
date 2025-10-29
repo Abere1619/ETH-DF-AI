@@ -1,0 +1,10 @@
+{
+  "name": "eth-df-cybershield-ai",
+  "version": "1.0.0",
+  "description": "Secure AI-powered threat intelligence platform",
+  "scripts": {
+    "build": "echo 'No build process needed for static site'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
